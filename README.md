@@ -9,7 +9,7 @@
 ### Password Generator
 ### QR Code With Python
 
-## To run these programmes some prerequisite libraries as follows need to be installed:
+## To run these programmes, some prerequisite libraries as follows need to be installed:
 
 ### qrcode - Getting Weather Information
 ### pyzbar - Getting Weather Information
